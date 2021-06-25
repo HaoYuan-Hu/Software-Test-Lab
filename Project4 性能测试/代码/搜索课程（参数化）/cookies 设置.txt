@@ -1,0 +1,8 @@
+# JMeter generated Cookie file
+www.cnmooc.org	TRUE	/	TRUE	0	JSESSIONID	30F2388F6EED80EF84ECB49A17C16B70.tomcat-1
+www.cnmooc.org	TRUE	/	FALSE	0	BEC	54af4961fbd3f6b0e2d88d786222fbd3
+.cnmooc.org	TRUE	/	FALSE	0	Hm_lpvt_ed399044071fc36c6b711fa9d81c2d1c	1624093448
+.cnmooc.org	TRUE	/	FALSE	0	Hm_lvt_ed399044071fc36c6b711fa9d81c2d1c	1624088952,1624089283
+www.cnmooc.org	TRUE	/	FALSE	0	cookieForMyCourseInro_857076	true
+www.cnmooc.org	TRUE	/	FALSE	0	moocsk	c6424b5a13d846e0be6b07c105fc24e8
+www.cnmooc.org	TRUE	/	FALSE	0	moocvk	a092c84e62034ca099127bd10fb573a6
